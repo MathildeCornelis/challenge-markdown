@@ -8,18 +8,18 @@
 
 Does not give up easily and works hard to achieve his goals.
 
-| Birthday   | Gender   | Favorite color  | Favorite food | Pinneapple on pizza                          |
-| :--------- | :------- | :-------------- | :------------ | :------------------------------------------- |
-| 26/02/1999 | Feminine | Amethyst purple | Mbriulate     | <ul><li>- [x] No</li><li>- [ ] Yes</li></ul> |
+| Birthday 🎂 | Gender 👩🏻‍🤝‍🧑🏻 | Favorite color 🎨 | Favorite food 🍜 | 🍍 on 🍕 ?                                   |
+| :---------- | :-------------- | :---------------- | :--------------- | :------------------------------------------- |
+| 26/02/1999  | Feminine        | Amethyst purple   | Mbriulate        | <ul><li>- [x] No</li><li>- [ ] Yes</li></ul> |
 
 ## Hobbies
 
-- the hook
-- the history
+- the hook 🧶
+- the history 📚
   - the Rennaissance
   - the Roi Soleil
-- lithotherapy
-- nature walks
+- lithotherapy 💎
+- nature walks 🍃
 
 ## You can always count on me when
 
@@ -27,11 +27,11 @@ Does not give up easily and works hard to achieve his goals.
 
 ## A funny story
 
-When I was in second grade, we went on a field trip with my class.
+When I was in second grade 🎓, we went on a field trip 🧳 with my class.
 
 During that week, we had free time where we could do any activity we wanted.
 
-Each time, I chose to clean the horses' stalls.
+Each time, I chose to clean the horses' stalls 🐴.
 
 #### TL;DR
 
