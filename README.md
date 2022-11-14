@@ -17,7 +17,7 @@ Does not give up easily and works hard to achieve his goals.
 - the hook
 - the history
   - the Rennaissance
-  - the Roi soleil
+  - the Roi Soleil
 - lithotherapy
 - nature walks
 
@@ -27,6 +27,14 @@ Does not give up easily and works hard to achieve his goals.
 
 ## A funny story
 
-## TL;DR
+When I was in second grade, we went on a field trip with my class.
+
+During that week, we had free time where we could do any activity we wanted.
+
+Each time, I chose to clean the horses' stalls.
+
+##### TL;DR
+
+I used to clean horse stalls as a hobby :poop:
 
 [<< previous](https://github.com/MarnieBenalia) || Mathilde Cornelis || [next >>](https://github.com/Milo-star)
