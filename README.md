@@ -33,7 +33,7 @@ During that week, we had free time where we could do any activity we wanted.
 
 Each time, I chose to clean the horses' stalls.
 
-##### TL;DR
+#### TL;DR
 
 I used to clean horse stalls as a hobby :poop:
 
