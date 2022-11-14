@@ -6,6 +6,8 @@
 
 ## Me, in one sentence
 
+Does not give up easily and works hard to achieve his goals.
+
 | Birthday   | Gender   | Favorite color  | Favorite food | Pinneapple on pizza                          |
 | :--------- | :------- | :-------------- | :------------ | :------------------------------------------- |
 | 26/02/1999 | Feminine | Amethyst purple | Mbriulate     | <ul><li>- [x] No</li><li>- [ ] Yes</li></ul> |
