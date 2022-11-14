@@ -4,7 +4,7 @@
 
 ![](photo.jpg)
 
-## Moi, en une phrase
+## Me, in one sentence
 
 | Birthday   | Gender   | Favorite color  | Favorite food | Pinneapple on pizza                          |
 | :--------- | :------- | :-------------- | :------------ | :------------------------------------------- |
@@ -12,16 +12,16 @@
 
 ## Hobbies
 
-- le crochet
-- l'histoire
-  - la Rennaissance
-  - le Roi soleil
-- la litothérapie
-- les balades dans la nature
+- the hook
+- the history
+  - the Rennaissance
+  - the Roi soleil
+- lithotherapy
+- nature walks
 
-## Vous pouvez toujours compter sur moi quand
+## You can always count on me when
 
-> vous avez besoin de vous confier.
+> you need to confide in us.
 
 ## A funny story
 
