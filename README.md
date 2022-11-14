@@ -9,3 +9,12 @@
 | Birthday   | Gender   | Favorite color  | Favorite food | Pinneapple on pizza                          |
 | :--------- | :------- | :-------------- | :------------ | :------------------------------------------- |
 | 26/02/1999 | Feminine | Amethyst purple | Mbriulate     | <ul><li>- [x] No</li><li>- [ ] Yes</li></ul> |
+
+## Hobbies
+
+- le crochet
+- l'histoire
+  - la Rennaissance
+  - le Roi soleil
+- la litothérapie
+- les balades dans la nature
